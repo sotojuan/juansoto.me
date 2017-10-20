@@ -1,11 +1,10 @@
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
-baseurl: "https://juansoto.me"
 languageCode: "en-us"
 title: "Juan Soto"
 copyright: "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
-canonifyurls: true
+relativeURLs: true
 
 author:
   name: "Juan Soto"
