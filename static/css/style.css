@@ -1,0 +1,250 @@
+/*
+ * Original design
+ * by Max Tabackman Fenton
+ * v.2014.3
+ * and some of my additions
+ */
+
+@charset 'UTF-8';
+
+body {
+  font-family: Baskerville, Palatino, Georgia, Times, serif;
+  font-size: 1.1em;
+  padding: 0;
+  color: #555555;
+  background-color: #fefefe;
+}
+
+a {
+  -webkit-transition: background-color 0.2s ease-in-out;
+  -moz-transition: background-color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
+  text-decoration: none;
+  color: #444444;
+  border-bottom: 1px solid #cccccc;
+}
+
+a.back {
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 120%;
+  font-weight: normal;
+  width: auto;
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.main {
+  font-size: 130%;
+  left: 100px;
+  width: 18.5em;
+  max-width: 70%;
+  text-transform: none;
+}
+
+.main h2 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+.main p, .project a.link {
+  font-size: 60%;
+}
+
+.main em {
+  font-size: 89%;
+  font-style: italic;
+  font-family: Baskerville, Palatino, serif;
+}
+
+.info a {
+  letter-spacing: 0.05em;
+}
+
+.info {
+  font-size: 0.85em;
+  line-height: 1.7;
+  width: 210px;
+  max-width: 30%;
+  margin: 0;
+  padding-top: 4px;
+  padding-top: 88px;
+  padding-bottom: 4em;
+  list-style: none;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  color: #333333;
+}
+
+blockquote > p {
+  font-size: 80%;
+  letter-spacing: 0.7px;
+  font-style: italic;
+}
+
+blockquote footer {
+  font-size: 1.2rem;
+  text-align: right;
+}
+
+.info li.inline {
+  display: inline;
+  padding-right: 0.5em;
+}
+
+.info ul,
+.info li {
+  line-height: 1.8em;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.info ul.additional {
+  clear: both;
+  margin-top: 2em;
+  opacity: 0.5;
+}
+
+.info ul.additional li {
+  font-size: 89%;
+  display: block;
+  padding-right: 0.7em;
+}
+
+.info ul#cv li {
+  padding-bottom: 0.75em;
+}
+
+.main {
+  font-size: 133%;
+}
+
+.main .note {
+  font-size: 89%;
+  line-height: 1.1;
+  padding-top: 1em;
+}
+
+.main p {
+  line-height: 1.35;
+}
+
+p.title {
+  font-family: Palatino;
+  font-weight: 600;
+}
+
+strong {
+  font-weight: 600;
+}
+
+@media screen and (max-width:712px) {
+  body {
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#fefefe));
+    background: -moz-linear-gradient(top, #ffffff, #fefefe);
+  }
+
+  h1 {
+    display: block;
+  }
+
+  .main {
+    width: 95%;
+    max-width: 95%;
+    margin-top: 2em;
+  }
+
+  .main p {
+    font-size: 89%;
+  }
+
+  .info {
+    font-size: 90%;
+    float: right;
+    width: 95%;
+    max-width: 95%;
+    margin-top: 1.5em;
+    padding-top: 2.5em;
+    text-align: right;
+    border-top: 1px solid #dddddd;
+  }
+
+  .info small {
+    font-size: 60%;
+  }
+
+  #dateplace {
+    display: none;
+  }
+
+  ul.additional {
+    padding: 0.75em 0;
+  };
+}
+
+@media screen and (min-width:712px) {
+  .info {
+    float: left;
+    width: 210px;
+    max-width: 33%;
+    padding-top: 12.25em;
+    text-align: right;
+  }
+
+  .main {
+    font-size: 200%;
+    float: left;
+    width: 18.5em;
+    max-width: 60%;
+    padding-right: 2em;
+  }
+
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1100px) and (min-height: 840px) {
+  body {
+    font-size: 1.618em;
+  }
+
+  a.back {
+    font-size: 60%;
+  }
+
+  .project p.tech {
+    font-size: 0.5em;
+  }
+
+  .project a.link {
+    font-size: 90%;
+    display: inline-block;
+  }
+
+  .info {
+    width: 13em;
+    max-width: 33%;
+  }
+
+  .main {
+    width: 18.5em;
+    max-width: 65%;
+  }
+
+  .container {
+    max-width: 41em;
+  }
+
+  .main p {
+    font-size: 50%;
+  };
+}
