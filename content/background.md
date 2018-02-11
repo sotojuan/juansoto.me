@@ -9,6 +9,8 @@ type = "single"
   <a href="https://capsulecares.com">Capsule</a>
 </p>
 
+Currently helping out with remodeling our prescription and medication entities in our Django app with the goal of eliminating incorrect or inaccurate medication data.
+
 Integrated a third party delivery service with our ordering system to automate logistics and delivery of medicine, reducing touch time for dispatchers and operations by 30%.
 
 Wrote a feature that sends SMS messages to customers as soon as the pharmacy receives an electronic prescription. The feature also takes care of parsing the prescription, creating an account, handling medical insurance availability, and notifying the pharmacy with useful information.
