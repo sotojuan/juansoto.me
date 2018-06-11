@@ -9,7 +9,7 @@ type = "single"
   <a href="https://capsulecares.com">Capsule</a>
 </p>
 
-Currently helping out with remodeling our prescription and medication entities in our Django app with the goal of eliminating incorrect or inaccurate medication data.
+Remodeled our prescription and medication entities in our Django app with the goal of eliminating incorrect or inaccurate medication data.
 
 Integrated a third party delivery service with our ordering system to automate logistics and delivery of medicine, reducing touch time for dispatchers and operations by 30%.
 
