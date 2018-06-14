@@ -15,7 +15,7 @@ Integrated a third party delivery service with our ordering system to automate l
 
 Wrote a feature that sends SMS messages to customers as soon as the pharmacy receives an electronic prescription. The feature also takes care of parsing the prescription, creating an account, handling medical insurance availability, and notifying the pharmacy with useful information.
 
-Contributed to development of internal pharmacy tools used to save time and improve order and customer service efficiency.
+Contributed to development of internal pharmacy tools used to improve ordering and customer service efficiency.
 
 Contributed to a rewrite of their main consumer facing web app and pharmacy tools using React.
 

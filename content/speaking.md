@@ -7,7 +7,7 @@ type = "single"
 
 **20 May 2017 / [Empire City Elixir Conference](http://empex.co)**
 
-I spoke about functional representations of data structures and what they can teach us about solving problems functionally and modeling our data such that it lends itself to purely functional solutions.
+I spoke about functional representations of data structures and what they can teach us about solving problems and modeling our data such that it lends itself to purely functional solutions.
 
 **20 October 2016 / [BrooklynJS](http://brooklynjs.com)**
 
