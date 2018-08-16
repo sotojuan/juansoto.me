@@ -6,18 +6,25 @@ type = "single"
 # Quotes
 
 <blockquote>
-  <p>To iterate is human, to recurse divine.</p>
-  <footer>L. Peter Deutsch</footer>
-</blockquote>
-
-<blockquote>
   <p>Computers make it easier to do a lot of things, but most of the things they make it easier to do don’t need to be done.</p>
   <footer>Andy Rooney</footer>
 </blockquote>
 
 <blockquote>
-  <p>[As] opposed to other kinds of engineering, where the constraints on what you can build are the constraints of physical systems ... the constraints imposed in building large software systems are the limitations of our own minds.</p>
-  <footer>Harold Abelson</footer>
+  <p>
+    There is a tide in the affairs of men. <br>
+    Which, taken at the flood, leads on to fortune;
+  </p>
+  <p>
+    Omitted, all the voyage of their life <br>
+    Is bound in shallows and in miseries.
+  </p>
+  <p>
+    On such a full sea are we now afloat, <br>
+    And we must take the current when it serves,
+    Or lose our ventures.
+  </p>
+  <footer>William Shakespeare (Julius Caesar)</footer>
 </blockquote>
 
 <blockquote>
