@@ -19,11 +19,6 @@ type = "single"
     Omitted, all the voyage of their life <br>
     Is bound in shallows and in miseries.
   </p>
-  <p>
-    On such a full sea are we now afloat, <br>
-    And we must take the current when it serves,
-    Or lose our ventures.
-  </p>
   <footer>William Shakespeare (Julius Caesar)</footer>
 </blockquote>
 
