@@ -9,15 +9,13 @@ type = "single"
   <a href="https://capsulecares.com">Capsule</a>
 </p>
 
-Remodeled our prescription and medication entities in our Django app with the goal of eliminating incorrect or inaccurate medication data.
+Remodeled our prescription and medication entities in our Django app to eliminate incorrect or inaccurate medication data.
 
 Integrated a third party delivery service with our ordering system to automate logistics and delivery of medicine, reducing touch time for dispatchers and operations by 30%.
 
-Wrote a feature that sends SMS messages to customers as soon as the pharmacy receives an electronic prescription. The feature also takes care of parsing the prescription, creating an account, handling medical insurance availability, and notifying the pharmacy with useful information.
+Wrote a prescription parser that takes care of creating user accounts, handling medical insurance availability, notifying the pharmacy with useful information, and notifying the customer that we received their prescription.
 
 Contributed to development of internal pharmacy tools used to improve ordering and customer service efficiency.
-
-Contributed to a rewrite of their main consumer facing web app and pharmacy tools using React.
 
 Developed a Node microservice to gather and transform pharmacy data. The service was used in production as part of their public launch.
 
