@@ -19,7 +19,7 @@ type = "single"
     Omitted, all the voyage of their life <br>
     Is bound in shallows and in miseries.
   </p>
-  <footer>William Shakespeare (Julius Caesar)</footer>
+  <footer>William Shakespeare</footer>
 </blockquote>
 
 <blockquote>
