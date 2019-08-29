@@ -7,12 +7,7 @@ type = "single"
 
 <blockquote>
   <p>
-    There is a tide in the affairs of men. <br>
-    Which, taken at the flood, leads on to fortune;
-  </p>
-  <p>
-    Omitted, all the voyage of their life <br>
-    Is bound in shallows and in miseries.
+    Striving to better, oft we mar what’s well.
   </p>
   <footer>William Shakespeare</footer>
 </blockquote>
