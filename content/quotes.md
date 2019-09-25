@@ -17,11 +17,11 @@ type = "single"
   <footer>Andy Rooney</footer>
 </blockquote>
 
-<blockquote>
+<!-- <blockquote>
   <p>Invent first, and then embellish.</p>
   <footer>Samuel Johnson</footer>
 </blockquote>
-
+ -->
 <blockquote>
   <p>I write my music in order that the weary and worn or the men burdened with affairs might enjoy a few minutes of solace and refreshment.</p>
   <footer>Franz Joseph Haydn</footer>
