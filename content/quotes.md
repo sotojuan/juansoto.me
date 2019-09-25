@@ -21,12 +21,12 @@ type = "single"
   <p>Invent first, and then embellish.</p>
   <footer>Samuel Johnson</footer>
 </blockquote>
- -->
+
 <blockquote>
   <p>I write my music in order that the weary and worn or the men burdened with affairs might enjoy a few minutes of solace and refreshment.</p>
   <footer>Franz Joseph Haydn</footer>
 </blockquote>
-
+ -->
 <blockquote>
   <p>I just want to make a tray of good tofu. If people want something else, they should go to the restaurants and shops.</p>
   <footer>Yasujirō Ozu</footer>
