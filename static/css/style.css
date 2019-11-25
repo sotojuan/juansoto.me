@@ -11,8 +11,8 @@ body {
   font-family: Baskerville, Palatino, Georgia, Times, serif;
   font-size: 1.1em;
   padding: 0;
-  color: #555555;
-  background-color: #fefefe;
+  color: #303030;
+  background-color: #fffff8;
 }
 
 a {
@@ -21,7 +21,8 @@ a {
   transition: background-color 0.2s ease-in-out;
   text-decoration: none;
   color: #444444;
-  border-bottom: 1px solid #cccccc;
+  /* border-bottom: 1px solid #444444; */
+  border-bottom: 1px solid #807e7e;
 }
 
 a.back {
@@ -109,7 +110,7 @@ blockquote footer {
 .info ul.additional {
   clear: both;
   margin-top: 2em;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 .info ul.additional li {
